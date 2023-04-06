@@ -1,0 +1,23 @@
+body {
+    background-color: powderblue;
+}
+
+hr {
+    background-color: black;
+    border-style: dotted none none;
+    border-width: 0.3px;
+    width: 100%;
+}
+
+img {
+    height: 200px;
+}
+
+h1 {
+    /* background-color: greenyellow; */
+    color: rgb(81, 2, 185);
+}
+
+h3 {
+    color: #66bfbf;
+}

@@ -1,0 +1,8 @@
+Display property in CSS has 4 different values :
+Block       Inline      Inline-Block        None
+
+
+Block elements are elements which essentially take up the whole width of the screen
+Example : Paragraphs, Headers, Divisions, Lists and list items, Forms
+
+Common-Inline-elements : Span, Images, Anchors
