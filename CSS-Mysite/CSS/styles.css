@@ -19,6 +19,21 @@ h1 {
     line-height: 2;
 }
 
+.skill-row {
+    width: 50%;       /* This made everything in the division to shift to left instead of center */
+    margin: 100px auto 100px auto;     /*This brought it back to the center */
+    text-align: left;
+    line-height: 1.5;
+}
+
+.GIF {
+    width: 25%;
+}
+
+.chilly {
+    width: 25%;
+}
+
 .pro {
     text-decoration: underline;
 }
