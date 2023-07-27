@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+
+.big-title {
+    font-size: 10rem;
+    color: yellow;
+    font-family: cursive;
+}
+
+h1 {
+    font-size: 8rem;
+}
